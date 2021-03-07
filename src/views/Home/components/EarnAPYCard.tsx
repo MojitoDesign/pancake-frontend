@@ -78,7 +78,7 @@ const EarnAPYCard = () => {
     <StyledFarmStakingCard>
       <CardBody>
         <Heading color="contrast" size="lg">
-          Earn up to
+        Kosingen ska in!
         </Heading>
         <CardMidContent color="#7645d9">
           {getHighestAPY() ? (
